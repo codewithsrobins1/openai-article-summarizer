@@ -7,11 +7,11 @@ const Hero = () => {
         <nav className="flex justify-between items-center w-full mb-10 pt-3">
             <img src={logo} alt="sumz_logo" className="w-28 object-contain" />
             <a
-                href="https://github.com/codewithsrobins1/"
+                href="https://www.bbc.com/news"
                 target="_blank"
                 className="black_btn"
             >
-                Github
+                BBC News
             </a>
         </nav>
 
@@ -20,7 +20,7 @@ const Hero = () => {
             <span 
                 className="animate-text font-extrabold text-transparent text-6xl bg-clip-text bg-gradient-to-r from-amber-500 via-orange-600 to-yellow-500"
             >
-                OpenAI GPT-4
+                OpenAI GPT-5
             </span>
         </h1>
         <h2 className='desc'>
